@@ -1,0 +1,6 @@
+{
+  "name": "Chuyên Gia Thiết Kế Đề Thi Toán Cấp 3 GDPT",
+  "description": "Hệ thống AI phân tích ma trận và đề mẫu, tự động tạo bộ đề thi môn Toán Cấp 3 chuẩn cấu trúc Bộ GD&ĐT (Trắc nghiệm 4 lựa chọn, Đúng/Sai, Trả lời ngắn) với công thức LaTeX chuẩn và lời giải chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
